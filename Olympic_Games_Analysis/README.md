@@ -1,4 +1,4 @@
-                                            Data Analyst Project - Olympic Games Analysis
+                                           
 
 
 
@@ -31,7 +31,8 @@ The Query for this analysis was loaded in directly from SQL Server.
 ![image](https://user-images.githubusercontent.com/119685963/210104933-18b57fc0-3333-43b8-8023-55fd1e12f6ce.png)
 
 
-Calculations
+![image](https://user-images.githubusercontent.com/119685963/210106103-345c4ca7-f7d6-46cf-842e-f9d366df7950.png)
+
 
 The Following Calculations were created in PowerBI using DAX (Data Analysis and Expressions).
 Measures were implemented in this project.
@@ -49,8 +50,8 @@ Measures were implemented in this project.
 )
 
 
+![image](https://user-images.githubusercontent.com/119685963/210106126-b3dc08bd-75e2-41ee-bc43-d1e9275b875f.png)
 
-Olympic Games Analysis
 
 The Dashboard consists of visualizations and filters which gives the end users to navigate and find information .
 The Users can filter by period using year,Nation Code,Competitor,
