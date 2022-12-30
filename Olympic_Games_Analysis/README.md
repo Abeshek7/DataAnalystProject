@@ -3,7 +3,7 @@ Data Analyst Project - Olympic Games Analysis
 ![image](https://user-images.githubusercontent.com/119685963/210103996-9f113621-5bfc-4118-873e-7744c86554c4.png)
 
 Business Problem
-![image](https://user-images.githubusercontent.com/119685963/210105503-90a06552-2016-4de2-808e-389099ccdcfc.png)
+Business Problem
 
 
 As a Data Analyst working at a news company you are asked to visualize data that will help readers understand how countries performed
