@@ -13,7 +13,7 @@ historically in the Summer Olympic Games.
 
 The Main task is to show historical performance for different countries.
 
-![image](https://user-images.githubusercontent.com/119685963/210106002-85834d86-27b6-4a61-ae9e-9bcf1b389004.png)
+![image](https://user-images.githubusercontent.com/119685963/210106262-6443d0cc-125a-4539-b4f9-87fa358674c0.png)
 
 
 The Necessary data was imported into SQL Server Database and transformed using the transformations listed below.
