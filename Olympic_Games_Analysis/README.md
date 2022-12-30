@@ -8,13 +8,13 @@
 ![image](https://user-images.githubusercontent.com/119685963/210105894-11601367-77ee-403d-9245-97aff5c9b235.png)
 
 
-
 As a Data Analyst working at a news company you are asked to visualize data that will help readers understand how countries performed
 historically in the Summer Olympic Games.
 
 The Main task is to show historical performance for different countries.
 
-Data Collection and Table Structures
+![image](https://user-images.githubusercontent.com/119685963/210106002-85834d86-27b6-4a61-ae9e-9bcf1b389004.png)
+
 
 The Necessary data was imported into SQL Server Database and transformed using the transformations listed below.
 
@@ -22,7 +22,8 @@ The Necessary data was imported into SQL Server Database and transformed using t
 ![image](https://user-images.githubusercontent.com/119685963/210103904-4b2006e0-7684-4eed-be27-5520a33418eb.png)
 
 
-Data Model
+![image](https://user-images.githubusercontent.com/119685963/210106036-6710c984-8045-44da-8f87-da373dffd084.png)
+
 
 As this is a view where dimensions and facts were combined, the data model has been created in PowerBI in one table.
 The Query for this analysis was loaded in directly from SQL Server.
