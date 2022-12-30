@@ -36,7 +36,7 @@ Measures were implemented in this project.
 
 1. Competitors = DISTINCTCOUNT('Olympic Games Data'[ID])
 
-2.Medals = COUNTROWS('Olympic Games Data')
+2. Medals = COUNTROWS('Olympic Games Data')
 
 3. Medals Registered = CALCULATE ([# of Medals], FILTER (
         'Olympic Games Data',
@@ -45,6 +45,7 @@ Measures were implemented in this project.
             || 'Olympic Games Data'[Medal] = "Gold"
     )
 )
+
 
 
 Olympic Games Analysis
