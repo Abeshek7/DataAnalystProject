@@ -34,14 +34,11 @@ Calculations
 The Following Calculations were created in PowerBI using DAX (Data Analysis and Expressions).
 Measures were implemented in this project.
 
-# of Competitors = DISTINCTCOUNT('Olympic Games Data'[ID])
+ Competitors = DISTINCTCOUNT('Olympic Games Data'[ID])
 
-# of Medals = COUNTROWS('Olympic Games Data')
+ Medals = COUNTROWS('Olympic Games Data')
 
-# of Medals Registered = 
-CALCULATE (
-    [# of Medals],
-    FILTER (
+  Medals Registered = CALCULATE ([# of Medals], FILTER (
         'Olympic Games Data',
         'Olympic Games Data'[Medal] = "Bronze"
             || 'Olympic Games Data'[Medal] = "Silver"
