@@ -2,7 +2,7 @@ Data Analyst Project - Olympic Games Analysis
 
 ![image](https://user-images.githubusercontent.com/119685963/210103996-9f113621-5bfc-4118-873e-7744c86554c4.png)
 
-Business Problem
+
 Business Problem
 
 
