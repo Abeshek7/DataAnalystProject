@@ -50,8 +50,8 @@ Measures were implemented in this project.
 )
 
 
-![image](https://user-images.githubusercontent.com/119685963/210106126-b3dc08bd-75e2-41ee-bc43-d1e9275b875f.png)
 
+![image](https://user-images.githubusercontent.com/119685963/210106126-b3dc08bd-75e2-41ee-bc43-d1e9275b875f.png)
 
 The Dashboard consists of visualizations and filters which gives the end users to navigate and find information .
 The Users can filter by period using year,Nation Code,Competitor,
