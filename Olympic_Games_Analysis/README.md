@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/119685963/210103996-9f113621-5bfc-4118-873e-7744c86554c4.png)
 
 
-![image](https://user-images.githubusercontent.com/119685963/210105894-11601367-77ee-403d-9245-97aff5c9b235.png)
+![image](https://user-images.githubusercontent.com/119685963/210106199-631cef99-a47a-4678-86d5-d9108ae145ee.png)
 
 
 As a Data Analyst working at a news company you are asked to visualize data that will help readers understand how countries performed
