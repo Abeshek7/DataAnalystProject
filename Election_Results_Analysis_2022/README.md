@@ -26,7 +26,13 @@ Election Result Link ----> https://results.eci.gov.in/ResultAcGenDec2022/partywi
 
 ![image](https://user-images.githubusercontent.com/119685963/210133729-8cceee96-991d-468f-b9c2-3a83157abb1e.png)
 
-The Data is loaded into PowerBI from Microsoft Excel.
+The Data is loaded into PowerBI from Microsoft Excel.Data cleaning is the process that removes data that does not belong in your dataset.
+While the techniques used for data cleaning may vary according to the types of data your company stores, you can follow these basic steps to map out a framework for your organization.
+1.Remove duplicate or irrelevant observations.
+2.Fix structural errors
+3.Filter unwanted outliers
+4.Handle missing data
+5.Validate and QA
 
 
 
