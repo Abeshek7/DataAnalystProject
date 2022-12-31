@@ -1,4 +1,4 @@
-This is an Election Result analysis of the recently concluded Gujarat and Himachal assembly elections in December 2022. The Report analyzes the trends in various constituencies of the state of Gujarat. 
+This is an Election Result analysis of the recently concluded Gujarat and Himachal assembly elections in December 2022. The Report analyzes the trends in various constituencies of the state of Gujarat and Himachal. 
 The Dataset for this has been taken from the election commission website of India. The Map of Gujarat and Himachal was downloaded from Bielefeld University Publication(GIS Shapefiles)and converted into a TOPO JSON format before loading into PowerBI.
 The Following things were done as part of this analysis.
 
