@@ -114,7 +114,7 @@ As this is a view where dimensions and facts were combined, the data model has b
 ![image](https://user-images.githubusercontent.com/119685963/210136063-61344c67-4400-4cd7-a1ab-4780a414ba9d.png)
 
 
-The Reports are finally published to PowerBI Service.
+The Reports are finally published to PowerBI Service where we can find the Constituency wise Trends in the state of Gujarat and Himachal Pradesh.
 
 
 
