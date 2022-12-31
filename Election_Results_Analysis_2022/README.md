@@ -67,6 +67,8 @@ Once it is done, we need to export it in TOPO JSON format with a zoom of 2-1.5% 
 
 Then we need to import this JSON file into PowerBI in Custom Map settings.
 
+![image](https://user-images.githubusercontent.com/119685963/210136151-b6a27327-5fd9-4303-988c-949ff2b975df.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/119685963/210135878-0d167fa3-6699-4eb2-84e5-6da85f44a98e.png)
